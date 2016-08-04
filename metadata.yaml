@@ -1,0 +1,32 @@
+_repo: The-Christmas-Books-of-Mr.-M.A.-Titmarsh_2731
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Thackeray, William Makepeace
+    alias: Titmarsh, Michael Angelo
+    birthdate: 1811
+    deathdate: 1863
+    gutenberg_agent_id: '313'
+    url: http://www.gutenberg.org/2009/agents/313
+    wikipedia:
+    - http://en.wikipedia.org/wiki/William_Makepeace_Thackeray
+    - http://www.victorianweb.org/authors/wmt/wmtov.html
+description: ''
+gutenberg_bookshelf: Christmas
+gutenberg_issued: '2006-05-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2731'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Christmas stories, English'
+- GITenberg
+tableOfContents: Mrs. Perkin's ball -- Our street -- Dr. Birch and his young friends
+  -- The Kickleburys on the Rhine -- The rose and the ring; or, the history of Prince
+  Giglio and Prince Bulbo.
+title: The Christmas Books of Mr. M.A. Titmarsh
+url: http://www.gutenberg.org/ebooks/2731
